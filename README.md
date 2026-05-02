@@ -13,9 +13,10 @@ The dataset contains retail transaction records including features such as `sale
 
 ## Tools & Technologies Used  
 
-- **Python** (Data Analysis and Logic Building)  
-- **Pandas** (Data Cleaning, Transformation, and Analysis)  
-- **Matplotlib** (Data Visualization and Trend Analysis)
+- **Python** (data analysis and logic building)  
+- **Pandas** (data cleaning, transformation, and analysis)  
+- **Matplotlib** (data visualization and trend analysis)  
+- **Google Colab** (used as the development environment for running and documenting the analysis)
 
 ## Key Insights  
 
